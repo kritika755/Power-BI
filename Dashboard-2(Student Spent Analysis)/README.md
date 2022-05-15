@@ -65,4 +65,4 @@ across the different ages.
 **##Dashboard Screenshot**-
 
 
-![](https://github.com/kritika755/Power-BI/blob/main/student_spend_analysis.PNG)
+![](https://github.com/kritika755/Power-BI/blob/main/Dashboard-2(Student%20Spent%20Analysis)/student_spend_analysis.PNG)
