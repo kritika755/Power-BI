@@ -202,5 +202,5 @@ Unit price: Price of a single item What it costs to a customer
 	
 Screenshot:
 	
-![] (https://github.com/kritika755/Power-BI/blob/main/Dashboard-3%20Acquition/Capture.PNG)
+![ ] (https://github.com/kritika755/Power-BI/blob/main/Dashboard-3%20Acquition/Capture.PNG)
 	
