@@ -198,3 +198,9 @@ Unit cost:Cost of production of product + packaging. What it costs to business
 Unit price: Price of a single item What it costs to a customer
 
 	Cost-Price= Profit
+
+	
+Screenshot:
+	
+![] (https://github.com/kritika755/Power-BI/blob/main/Dashboard-3%20Acquition/Capture.PNG)
+	
