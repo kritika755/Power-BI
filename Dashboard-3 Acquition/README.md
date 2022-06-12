@@ -198,6 +198,21 @@ Unit cost:Cost of production of product + packaging. What it costs to business
 Unit price: Price of a single item What it costs to a customer
 
 	Cost-Price= Profit
+5.What is the difference between SUM and SUMX in powerBI?
+Sum is an aggregate function that is used to find summation of a column.It takes only and only 1 column as input 
+	SUM(<column>)
+for example you want to find total sales you can do 
+	sum(SALES[TOTAL_AMOUNT])
+Now what if you want to calculate a complex expression like total profit.. 
+you cant do profit=sum(sales[total_amount_sales]-sales[total cost price])) because sum takes one column ..
+so you will have to write 
+	profit=sum(sales[total_amount_sales])-sum(sales[total cost price]) 
+	
+what if the expression becomes more complex. it will be tedious to use too many sums.In that case we use a simple sumx
+	SUM**X** the X stands for expressions.SUMX takes expressions as input
+	SUMX<expression>
+	
+	you can write profit =sumx(sales[total_amount_sales]-sales[total cost price])
 
 	
 Screenshot:
